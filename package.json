@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "mustache": "^2.3.0",
     "mustache-express": "^1.2.4"
   },
